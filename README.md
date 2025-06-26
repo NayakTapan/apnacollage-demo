@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is git repository
 
-Author :- Tapan
+Author :- Tapan nayak
